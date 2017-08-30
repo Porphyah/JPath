@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="RapidJson">
+      <UniqueIdentifier>{8179ca26-4d28-45ca-aa84-464c1dd605ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jpath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exstring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jpath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\allocators.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\document.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\encodedstream.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\encodings.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\error\en.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\error\error.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\filereadstream.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\filewritestream.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\fwd.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\biginteger.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\diyfp.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\dtoa.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\ieee754.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\itoa.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\meta.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\pow10.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\regex.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\stack.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\strfunc.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\strtod.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\internal\swap.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\istreamwrapper.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\memorybuffer.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\memorystream.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\msinttypes\inttypes.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\msinttypes\stdint.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\ostreamwrapper.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\pointer.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\prettywriter.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\rapidjson.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\reader.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\schema.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\stream.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\stringbuffer.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\protocol-adapter\source\opensource\rapidjson\writer.h">
+      <Filter>RapidJson</Filter>
+    </ClInclude>
+    <ClInclude Include="exstring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
