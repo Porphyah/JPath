@@ -1,18 +1,24 @@
 {
-	"object" : 
-	{
+	"object" : {
 		"value1" : "This is one thing",
 		"value2" : "This is another one",
 		"value3" : "This is final one",
 		"value4" :
 		{
-			"hidden" : "too young!"
+			"hidden" : "naive!"
 		}
 	},
-	"array" : 
-	[
-		2.5,
-		10,
-		3.14159
-	]
+    "array": [
+        2.5,
+        10,
+        3.14159
+    ],
+    "array2": [
+        {
+            "hidden" : "too young!"
+        },
+        {
+            "hidden" : "too simple!"
+        }
+    ]
 }
